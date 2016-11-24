@@ -260,9 +260,7 @@ def main(argv):
 	if args.c != 0:
 		check_proxies(args.c)
 	else:
-		#ccÖ÷º¯Êý
 		attack_cc(args.u, args.j, args.p, args.t ,args.m ,args.d)
 
 if __name__ == '__main__':	
 	main(sys.argv)
-	#os.system('pause')
