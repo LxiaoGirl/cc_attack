@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # author: xiaoL-pkav http://xlixli.net
 # -*- coding: utf-8 -*-
-
 import requests
 import threading
 import argparse
